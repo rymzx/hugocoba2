@@ -1,4 +1,4 @@
-baseURL = 'http://rymzx.github.io/hugocoba2/'
+baseURL = 'https://rymzx.github.io/hugocoba2/'
 languageCode = 'en-us'
 title = 'My New Hugo Site'
 theme= "PaperMod"
